@@ -1,0 +1,4 @@
+print("Evaluación N°1 DRY7122")
+
+git add .  # Para agregar todos los cambios al área de preparación
+git commit -m "Evaluación N°1 DRY7122"  # Para hacer el commit con el título especificado
